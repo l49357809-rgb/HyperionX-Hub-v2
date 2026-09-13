@@ -13,7 +13,7 @@ _G.DarahubLibBtn.{Flag}:Destroy()
 _G.DarahubLibBtn.{Flag}:Destroy()
 
 
-local ButtonLib = loadstring(https://raw.githubusercontent.com/l49357809-rgb/HyperionX-Hub-v2/refs/heads/main/text%205.txt.pages.dev/Module/Button-lib.lua"))()
+local ButtonLib = loadstring(game:HttpGet(“
 
 -- 1. Create a Button that starts INVISIBLE 
 ButtonLib.Create:Button({ 
